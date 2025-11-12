@@ -4,7 +4,7 @@ Sóc estudiant de **Desenvolupament d'Aplicacions Web** (DAWE1) a l'**Institut T
 Tinc 18 anys i em apassiona la programació i el desenvolupament de web.
 
 ### 🌱 Desig d'aprendre:
-M'encantaria seguir aprenent i millorant les meves habilitats en **en el desenvolupament**, així com en **creació d'aplicacions escalables** i **optimització del rendiment web**. Estic molt motivat per participar en projectes reals i poder aplicar tot el que estic aprenent.
+M'encantaria seguir aprenent i millorant les meves habilitats en **en el desenvolupament**, així com participar en projectes reals i poder aplicar tot el que estic aprenent.
 
 
 ### 📧 Contacte:
