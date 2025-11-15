@@ -36,25 +36,27 @@ This is the stack I am currently learning and using for my school projects:
 
 ---
 
+---
+
 ### 📊 My GitHub Activity and Stats
 
 <div align="center">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" 
-            srcset="https://github-readme-stats.vercel.app/api?username=oriol7e7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1&cache_bust=6">
-        <source media="(prefers-color-scheme: light)" 
-            srcset="https://github-readme-stats.vercel.app/api?username=oriol7e7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&disable_animations=false&theme=default&locale=en&hide_border=true&order=1&cache_bust=6">
-        <img alt="oriol7e7 GitHub Stats" height="150" 
-            src="https://github-readme-stats.vercel.app/api?username=oriol7e7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1&cache_bust=6">
-    </picture>&nbsp;&nbsp;&nbsp;
-    <picture>
-        <source media="(prefers-color-scheme: dark)" 
-            srcset="https://github-readme-stats.vercel.app/api/top-langs?username=oriol7e7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2&cache_bust=true">
-        <source media="(prefers-color-scheme: light)" 
-            srcset="https://github-readme-stats.vercel.app/api/top-langs?username=oriol7e7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=true&order=2&cache_bust=true">
-        <img alt="oriol7e7 Top Languages" height="150" 
-            src="https://github-readme-stats.vercel.app/api/top-langs?username=oriol7e7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2&cache_bust=true">
-    </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" 
+            srcset="https://github-readme-stats.vercel.app/api?username=oriol7e7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1&cache_bust=6">
+        <source media="(prefers-color-scheme: light)" 
+            srcset="https://github-readme-stats.vercel.app/api?username=oriol7e7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&disable_animations=false&theme=default&locale=en&hide_border=true&order=1&cache_bust=6">
+        <img alt="oriol7e7 GitHub Stats" height="150" 
+            src="https://github-readme-stats.vercel.app/api?username=oriol7e7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1&cache_bust=6">
+    </picture>&nbsp;&nbsp;&nbsp;
+    <picture>
+        <source media="(prefers-color-scheme: dark)" 
+            srcset="https://github-readme-stats.vercel.app/api/top-langs?username=oriol7e7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2&cache_bust=151120251249">
+        <source media="(prefers-color-scheme: light)" 
+            srcset="https://github-readme-stats.vercel.app/api/top-langs?username=oriol7e7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=true&order=2&cache_bust=151120251249">
+        <img alt="oriol7e7 Top Languages" height="150" 
+            src="https://github-readme-stats.vercel.app/api/top-langs?username=oriol7e7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2&cache_bust=151120251249">
+    </picture>
 </div>
 
 ---
